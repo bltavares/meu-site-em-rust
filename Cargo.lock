@@ -1,0 +1,4 @@
+[root]
+name = "meu-site-em-rust"
+version = "0.1.0"
+
