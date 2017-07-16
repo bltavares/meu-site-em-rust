@@ -4,4 +4,4 @@ version = "0.1.0"
 authors = ["Bruno Tavares <connect+github@bltavares.com>"]
 
 [dependencies]
-iron = "0.5.1"
+nickel = "0.10.0"
