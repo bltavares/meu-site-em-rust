@@ -1,0 +1,10 @@
+{
+  "name": "Meu site em Rust",
+  "description": "Um site super simples em Rust",
+  "repository": "https://github.com/bltavares/meu-site-em-rust",
+  "logo": "http://www.rustacean.net/more-crabby-things/dancing-ferris.gif",
+  "keywords": ["rust", "nickel", "static"],
+  "buildpacks": [
+    { "url": "https://github.com/emk/heroku-buildpack-rust.git" }
+  ]
+}
